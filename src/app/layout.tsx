@@ -9,8 +9,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "VDEX | Degen Playground",
-  description: "VDEX is the first omnichain perpDEX with no slippage and sustainable Bitcoin Yield",
+  title: "Virtual Labs | First Omnichain PerpDEX",
+  description:
+    "Virtual Labs is creator and maintainer of the Virtual Rollups and VDEX. VDEX offers No Slippage and Sustainable Bitcoin Yield",
 };
 
 export default function RootLayout({
